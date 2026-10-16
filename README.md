@@ -1,4 +1,4 @@
-# Shazaam Portfolio Website
+# Shazaam Portfolio Website 
 
 A modern, responsive influencer portfolio website developed as part of a **Web Development Internship Selection Task**.
 
@@ -101,7 +101,7 @@ Through this assignment, I gained practical experience in:
 
 ## 📝 Project Context
 
-This project was created for evaluation as part of a web development internship selection task. It demonstrates my approach to frontend development, UI/UX design, and deploying a functional website from a given brief.
+This project was created for evaluation as part of a web development internship selection task. It demonstrates my approach to frontend development,. UI/UX design, and deploying a functional website from a given brief.
 
 ---
 
