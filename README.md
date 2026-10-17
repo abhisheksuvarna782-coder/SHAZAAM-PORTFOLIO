@@ -101,7 +101,7 @@ Through this assignment, I gained practical experience in:
 
 ## 📝 Project Context
 
-This project was created for evaluation as part of a web development internship selection task. It demonstrates my approach to frontend development,. UI/UX design, and deploying a functional website from a given brief.
+This project was created for evaluation as part of a web development internship selection task. It demonstrates my approach to frontend development, UI/UX design, and deploying a functional website from a given brief.
 
 ---
 
