@@ -1,4 +1,4 @@
-.# Shazaam Portfolio Website 
+# Shazaam Portfolio Website 
 
 A modern, responsive influencer portfolio website developed as part of a **Web Development Internship Selection Task**.
 
